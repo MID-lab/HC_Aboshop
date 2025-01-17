@@ -1,5 +1,5 @@
 function initialisation() {
-    console.log("Test");
+    console.log("Style CSS issue de Health&Co");
 }
 
 initialisation ();
